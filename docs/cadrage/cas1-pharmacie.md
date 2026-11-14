@@ -34,3 +34,7 @@ Données de santé et données personnelles (identité patient, prescripteur, tr
 
 ## Approche écartée et pourquoi (facultatif)
 Modèle génératif seul écarté : il pourrait inventer une mention ou mal interpréter une posologie, sans garantie de vérifiabilité, pour un coût par requête et un risque d'erreur injustifiés face à une liste de règles finie. RAG écarté également : la base de connaissances réglementaire est stable et structurée, un simple référentiel de règles suffit, sans recherche sémantique.
+# Fiche de cadrage : Ordonnances incomplètes en pharmacie
+
+## Approche retenue
+- [x] Référentiel de règles
