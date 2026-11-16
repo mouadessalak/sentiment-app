@@ -12,7 +12,7 @@ L'équipe relation client / modération de la marque, qui consulte une file d'av
 
 Cocher une seule case :
 
-- [X] Règles métier
+- [x] Règles métier
 - [ ] Machine learning
 - [ ] RAG
 - [ ] Modèle génératif seul
