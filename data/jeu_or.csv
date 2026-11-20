@@ -1,0 +1,21 @@
+text,attendu,difficulte,erreur_connue
+"Commande reçue en deux jours, emballage soigné",POSITIVE,,
+"Produit cassé et service injoignable, à fuir",NEGATIVE,,
+"Livraison rapide, produit conforme, très satisfait",POSITIVE,,
+"Article arrivé abîmé, remboursement demandé",NEGATIVE,,
+"Très déçu par la qualité, je ne recommande pas",NEGATIVE,,mauvaise calibration sur les termes négatifs
+"Pas déçu du tout, je recommande",POSITIVE,négation,
+"Arrivé cassé, bravo le transporteur",NEGATIVE,ironie,
+"Ce n'était pas mauvais finalement",POSITIVE,négation,
+"Le produit est correct, ni exceptionnel ni catastrophique",NEGATIVE,avis mitigé,
+"J'aurais préféré un meilleur écran pour ce prix",NEGATIVE,avis mitigé,
+"Super, encore un colis perdu",NEGATIVE,ironie,
+"Le livre a une histoire intéressante mais la livraison était tardive",NEGATIVE,autre domaine,signal positif porté par le sous-avis du livre
+"Cette application plante dès l'ouverture",NEGATIVE,autre domaine,
+"Le dentiste a expliqué clairement le traitement",POSITIVE,autre domaine,
+"Le livreur a été courtois malgré le retard",POSITIVE,
+"Rien à signaler, bonne commande",POSITIVE,
+"Catalogue incomplet et aucun article disponible",NEGATIVE,
+"Retour accepté rapidement, excellent service client",POSITIVE,
+"Je suis satisfait sauf de l'emballage trop fragile",NEGATIVE,avis mitigé,
+"Incroyable, le colis est arrivé neuf après quatre jours",POSITIVE,ironie,
